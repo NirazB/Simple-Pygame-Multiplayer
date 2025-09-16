@@ -9,6 +9,7 @@
 
 ## Screenshots
 -Players can see each other move in real-time with synchronized animations.
+![Demo Screenshot](https://github.com/NirazB/Simple-Pygame-Multiplayer/blob/main/Screenshot%202025-09-16%20143830.png)
 
 ## Requirements
 - Python 3.7+
